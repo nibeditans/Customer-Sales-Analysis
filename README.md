@@ -10,3 +10,6 @@ Here, I have added three files:
 Whichever you're comfotable with, go and view that file. But I'll still suggest to view the Jupyter File, if you're viewing on github itself. If you want the HTML viewer, then download the file and do you analysis.
 
 This work serves as a foundation for more advanced analyses in the improved version of the project. Please go and check the improved version of Customer Sales Analysis for more detailed and enhanced code and visualizations.
+
+- [Customer Sales Analysis](https://github.com/nibeditans/Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.ipynb)
+- Improved Version: [Customer Sales Analysis](https://github.com/nibeditans/Improved-Version-of-Customer-Sales-Analysis)
