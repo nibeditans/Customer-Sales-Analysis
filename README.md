@@ -7,7 +7,9 @@ Here, I have added three files:
 - [CSA (HTML Doc)](https://github.com/nibeditans/Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.html)
 - [CSA (Python File)](https://github.com/nibeditans/Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.py)
 
-You can check out the complete article on this this Project: [Customer Sales Analysis — Python Version](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
+You can check out the complete article on this this Project: 
+    - [Customer Sales Analysis — Python Version](https://nsworldinfo.medium.com/customer-sales-analysis-python-version-part-1-60e5a50be351)
+    - [Customer Sales Analysis — SQL Version (Part-2)](https://nsworldinfo.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
 
 Whichever you're comfotable with, go and view that file. But I'll still suggest to view the Jupyter File, if you're viewing on github itself. If you want the HTML viewer, then download the file and do you analysis.
 
