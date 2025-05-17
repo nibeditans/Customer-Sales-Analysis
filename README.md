@@ -1,4 +1,4 @@
-# Customer-Sales-Analysis
+# Customer Sales Analysis
 For the Customer Sales Analysis project, I utilized Pandas and Matplotlib to conduct a comprehensive examination of sales data. My analysis began with essential data cleaning processes, including standardizing the order date and removing unnecessary columns. I performed some key analyses including: determining total sales per product, identifying top-selling products, analyzing sales trends over time (monthly and quarterly), and calculating the average order value per customer. The project included various visualizations, such as line charts for sales trends and bar charts for top products, to effectively communicate insights.
 
 Here, I have added three files:
