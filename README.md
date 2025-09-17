@@ -1,8 +1,7 @@
 # Customer Sales Analysis
 For the Customer Sales Analysis project, I utilized Pandas and Matplotlib to conduct a comprehensive examination of sales data. My analysis began with essential data cleaning processes, including standardizing the order date and removing unnecessary columns. I performed some key analyses including: determining total sales per product, identifying top-selling products, analyzing sales trends over time (monthly and quarterly), and calculating the average order value per customer. The project included various visualizations, such as line charts for sales trends and bar charts for top products, to effectively communicate insights.
 
-Here, I have added three files:
-
+I have added three files in this repo:
 - [CSA (Jupyter Notebook)](https://github.com/nibeditans/Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.ipynb)
 - [CSA (HTML Doc)](https://github.com/nibeditans/Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.html)
 - [CSA (Python File)](https://github.com/nibeditans/Customer-Sales-Analysis/blob/main/Customer%20Sales%20Analysis.py)
