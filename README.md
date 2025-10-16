@@ -18,4 +18,6 @@ You can also check out the complete articles I have written on this Project:
 - [Customer Sales Analysis — SQL Version (Part-2)](https://nsworldinfo.medium.com/customer-sales-analysis-sql-version-part-2-648b9a15c184)
 - [Customer Sales Analysis — Power BI Version (Part-3)](https://nsdsda.medium.com/customer-sales-analysis-power-bi-version-part-3-433c21feb1e7)
 
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.😄
+
 Feel free to ask if anything!😊
